@@ -23,5 +23,4 @@ o	Class-wise Revenue → Contribution of different room classes to total revenue
 
 •	Business Impact & Insights: Identifies high-performing weeks, highlights underutilized capacity, compares weekday vs weekend performance, and tracks cancellations to support operational efficiency, marketing strategy, and revenue growth.
 
-5) Snapshot
-   
+5) Snapshot: (https://github.com/Abhishek-11-radder/Hospitality_Analytics_Dashboard/blob/main/HoA_Dashboard_PB.png)
